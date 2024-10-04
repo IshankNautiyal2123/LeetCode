@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2155-find-missing-observations) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankNautiyal2123/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/IshankNautiyal2123/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/IshankNautiyal2123/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
